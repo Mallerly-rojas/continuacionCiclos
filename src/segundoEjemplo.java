@@ -6,6 +6,16 @@ public class segundoEjemplo {
             System.out.println("numero: " + numero);
             numero = numero - 1;
 
+
+
+
+
+
+
+
+
+
+
         }
 
     }

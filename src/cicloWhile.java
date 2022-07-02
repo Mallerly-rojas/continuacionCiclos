@@ -1,4 +1,4 @@
-public class cicloWhi{
+public class cicloWhile {
     public static void main(String[] args) {
         //ciclo whilw
         // pintar los njumeros del 1 al 10
